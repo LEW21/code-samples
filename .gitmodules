@@ -1,0 +1,9 @@
+[submodule "yieldxx"]
+	path = yieldxx
+	url = https://github.com/LEW21/yieldxx.git
+[submodule "pydbus"]
+	path = pydbus
+	url = https://github.com/LEW21/pydbus.git
+[submodule "variantxx"]
+	path = variantxx
+	url = https://github.com/LEW21/variantxx.git
